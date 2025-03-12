@@ -1,0 +1,10 @@
+void main() {
+    List<String> products = ['Tomate', 'Brot', 'Gurke', 'Kartoffeln'];
+    List<int> numbers =  [100, 3, -4, 3,];
+    List<bool> boollist = [true, true, true, false];
+    List<double> myDoubles = [];
+
+    for (double f in myDoubles) {
+        print(f > 3);
+
+    
